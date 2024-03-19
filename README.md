@@ -16,3 +16,6 @@ link -  https://atti13.github.io/Zen-Task-2-3/
 
 ### ● Clicking on the Forgot your password link should open any email client to send an email to support@zentrades.pro for resetting the password.
 ![image](https://github.com/atti13/Zen-Task-2-3/assets/115044833/bff960b2-9072-4a53-9898-7cc4a830ec1c)
+
+### ● All the components on the dashboard page must be actual components like charts and dropdowns. No image use is allowed.
+![image](https://github.com/atti13/Zen-Task-2-3/assets/115044833/f359cfd4-f5a3-4039-93d1-394f93a67252)
