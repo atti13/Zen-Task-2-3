@@ -9,5 +9,6 @@ link -  https://atti13.github.io/Zen-Task-2-3/
 ![image](https://github.com/atti13/Zen-Task-2-3/assets/115044833/899fd522-5665-4365-a99d-33ff27e0432c)
 
 ● The password field must be a masked field i.e. should not reveal what's being entered.
+![image](https://github.com/atti13/Zen-Task-2-3/assets/115044833/0acbf48a-8fa9-48d3-90a9-cbb63fd293f2)
 
 ● The password field should not accept any special character other than @ and must contain an uppercase letter and a number.
