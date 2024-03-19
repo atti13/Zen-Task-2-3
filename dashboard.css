@@ -1,0 +1,92 @@
+body {
+  font-family: Roboto, sans-serif;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-color: #e6e6e7;
+  font-size: 16px;
+}
+
+.title1 {
+  padding: 20px 35px;
+  font-weight: bold;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  margin: 0px 20px;
+}
+.grid-item {
+  background-color: white;
+  border-left: 10px solid rgb(210, 89, 89);
+  margin: 0px 15px 15px;
+  box-shadow: 2px 2px 3px rgb(179, 179, 179);
+  height: 90px;
+  padding: 10px 20px 0px 20px;
+  width: 293px;
+}
+.title {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+.title2 {
+  font-weight: bold;
+  margin: 40px 0 0 0;
+}
+
+.graph-container {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+}
+.graph {
+  flex: 1;
+  box-sizing: border-box;
+}
+#graph1 {
+  margin: 0 15px 0 35px;
+}
+#graph2 {
+  margin: 0 35px 0 15px;
+}
+canvas {
+  margin: 20px 0 0 0;
+  height: 300px !important ;
+  width: 615px !important ;
+  padding: 10px 50px;
+}
+.can {
+  background-color: white;
+  box-shadow: 2px 2px 3px rgb(179, 179, 179);
+  text-align: center;
+  padding: 0px 0 10px;
+  margin: 20px 0 50px;
+  font-size: 14px;
+}
+
+@media only screen and (max-width: 1024px) {
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: 0px 20px;
+  }
+
+  .graph-container {
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: space-between;
+  }
+
+  #graph2 {
+    margin: 0 35px 80px 15px;
+  }
+
+  .can {
+    background-color: white;
+    box-shadow: 2px 2px 3px rgb(179, 179, 179);
+    text-align: center;
+    padding: 0px 0 10px;
+    margin: 20px 0;
+    font-size: 14px;
+  }
+}
