@@ -13,3 +13,6 @@ link -  https://atti13.github.io/Zen-Task-2-3/
 
 ### ● The password field should not accept any special character other than @ and must contain an uppercase letter and a number.
 ![image](https://github.com/atti13/Zen-Task-2-3/assets/115044833/1a73311a-ddc5-4904-905a-b13e5ef640ce)
+
+### ● Clicking on the Forgot your password link should open any email client to send an email to support@zentrades.pro for resetting the password.
+![image](https://github.com/atti13/Zen-Task-2-3/assets/115044833/bff960b2-9072-4a53-9898-7cc4a830ec1c)
