@@ -1,8 +1,8 @@
 # Zen-Task-2-3
 Login Dashboard
 link -  https://atti13.github.io/Zen-Task-2-3/
-● The login page should look like below :
 
+● The login page should look like below :
 
 ● The user name field should only accept an email format. The validation should happen through Javascript.
 
